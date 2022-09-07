@@ -6,6 +6,7 @@ const me = {
             description: description,
             amount: +amount
         })
+        return this.expenses
         
     } 
 }
